@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Dhineshwaran%20S&desc=Full-Stack%20Developer&fontAlignY=50&animation=fadeIn&descAlign=50&descAlignY=65">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6323FF8D&width=435&lines=+Aspiring+Software+Developer+;+Learning%3A+Java%2C+Web+Development++;QuickSkills%3A+C%2C+C%2B%2B%2C+Java%2C+Python%2C+HTML%2C+CSS+++fox+jumps+nightly+above+wizard;Working+on+improving+problem-solving++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6323FF8D&width=435&lines=+Aspiring+Software+Developer+;+Learning%3A+Java%2C+Web+Development++;QuickSkills%3A+C%2C+C%2B%2B%2C+Java%2C+HTML%2C+CSS+++fox+jumps+nightly+above+wizard;Working+on+improving+problem-solving++)](https://git.io/typing-svg)
 
 </div>
 
